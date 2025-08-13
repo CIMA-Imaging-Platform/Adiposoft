@@ -1,5 +1,3 @@
-# Adiposoft
-
 ---
 mediawiki: Adiposoft
 name: "Adiposoft"
